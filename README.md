@@ -3,8 +3,12 @@ One sentence repo description.
 
 ## Table of Contents
 1. [Introduction](#introduction)
-  1. [Technologies](#technlogies)
-  2. [Context](#context)
+  1. [Takeaways](#takeaways)
+  1. [Technologies](#technologies)
+  1. [Context](#context)
+    1. [What problem does this solve?](#what-problem-does-this-solve?)
+    1. [Industry Prevalence](#industry-prevalence)
+    1. [Competing Technologies](#competing-technologies)
 1. [Environment](#environment)
   1. [Requirements](#requirements)
   1. [Installing Dependencies](#installing-dependencies)
@@ -17,12 +21,19 @@ One sentence repo description.
 
 ## Introduction
 
+### Takeaways
+
 ### Technologies
   - item 1
   - item 2
 
 ### Context
-Context for the sprint
+
+#### What problem does this solve? 
+
+#### Industry Prevalence 
+
+#### Competing Technologies
 
 
 ## Environment
