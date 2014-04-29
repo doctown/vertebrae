@@ -13,7 +13,6 @@ One sentence repo description.
   1. [Extra Credit](#extra-credit)
 1. [Getting Help](#getting-help)
 1. [Contributing](#contributing)
-1. [Changelog](#changelog)
 1. [License](#license)
 
 ## Introduction
