@@ -76,7 +76,6 @@ any code contained herein is prohibited.
 
 
 <!-- Links -->
-[node-inspector]: https://github.com/node-inspector/node-inspector
 [semantic versioning]: http://semver.org/spec/v2.0.0.html
 [CONTRIBUTING.md]: CONTRIBUTING.md
 [CHANGELOG.md]: CHANGELOG.md
