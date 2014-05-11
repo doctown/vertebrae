@@ -6,9 +6,6 @@ One sentence repo description.
   1. [Takeaways](#takeaways)
   1. [Technologies](#technologies)
   1. [Context](#context)
-    1. [What problem does this solve?](#what-problem-does-this-solve?)
-    1. [Industry Prevalence](#industry-prevalence)
-    1. [Competing Technologies](#competing-technologies)
 1. [Environment](#environment)
   1. [Requirements](#requirements)
   1. [Installing Dependencies](#installing-dependencies)
@@ -18,6 +15,7 @@ One sentence repo description.
 1. [Getting Help](#getting-help)
 1. [Contributing](#contributing)
 1. [License](#license)
+
 
 ## Introduction
 
@@ -29,23 +27,21 @@ One sentence repo description.
 
 ### Context
 
-#### What problem does this solve? 
-
-#### Industry Prevalence 
-
-#### Competing Technologies
+<!-- What problem does this solve? -->
+<!-- Industry Prevalence -->
+<!-- Competing Technologies -->
 
 
 ## Environment
 
 ### Requirements
 - Node 0.10.x
-- Bower
-
+- Bower 1.3.x
 
 ### Installing Dependencies
+
 ```sh
-npm install bower -g
+npm install
 bower install
 ```
 
@@ -76,6 +72,7 @@ any code contained herein is prohibited.
 
 
 <!-- Links -->
+[node-inspector]: https://github.com/node-inspector/node-inspector
 [semantic versioning]: http://semver.org/spec/v2.0.0.html
 [CONTRIBUTING.md]: CONTRIBUTING.md
 [CHANGELOG.md]: CHANGELOG.md
