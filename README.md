@@ -62,8 +62,8 @@ bower install
 
 
 ## Contributing
-This repository uses [semantic versioning][].
-See [CONTRIBUTING.md][] for contribution guidelines.
+This repository uses [semantic versioning].
+See [CONTRIBUTING.md] for contribution guidelines.
 
 
 ## License
@@ -73,7 +73,7 @@ any code contained herein is prohibited.
 
 <!-- Links -->
 [node-inspector]: https://github.com/node-inspector/node-inspector
-[semantic versioning]: http://semver.org/spec/v2.0.0.html
+[semantic versioning]: http://semver.org/
 [CONTRIBUTING.md]: CONTRIBUTING.md
 [CHANGELOG.md]: CHANGELOG.md
 [bookstrap.hackreactor.com/help]: http://bookstrap.hackreactor.com/help
