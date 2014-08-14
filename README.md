@@ -3,7 +3,6 @@ One sentence repo description.
 
 ## Table of Contents
 1. [Introduction](#introduction)
-  1. [Takeaways](#takeaways)
   1. [Technologies](#technologies)
   1. [Context](#context)
 1. [Environment](#environment)
@@ -19,9 +18,9 @@ One sentence repo description.
 
 ## Introduction
 
-### Takeaways
 
 ### Technologies
+
   - item 1
   - item 2
 
@@ -35,15 +34,16 @@ One sentence repo description.
 ## Environment
 
 ### Requirements
-- Node 0.10.x
-- Bower 1.3.x
+
+  - Node 0.10.x
+  - Bower 1.3.x
 
 ### Installing Dependencies
 
-```sh
-npm install
-bower install
-```
+  ```bash
+  npm install
+  bower install
+  ```
 
 
 ## Objectives
@@ -58,7 +58,7 @@ bower install
 
 
 ## Getting Help
-- **Halp** at [bookstrap.hackreactor.com/help]
+  - **Halp** at [bookstrap.hackreactor.com/help]
 
 
 ## Contributing
