@@ -26,10 +26,9 @@ A (chiro)practical introduction to backbone.js
 Backbone is the first of many MVC (model-view-controller) frameworks
 you will be introduced to. It is the most prevalent framework in use today.
 
-Maybe you've seen MVC before, but this introduction assumes no knowledge.
 You'll walk through the basics, and see how a simple application might work.
 
-Work through the tutorial steps - _without going ahead_ - for an
+Work through the tutorial steps for an
 introduction to Backbone's flavor of MVC:
 - models
  - The persistent application data
