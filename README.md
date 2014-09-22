@@ -1,5 +1,5 @@
-# TEMPLATE
-One sentence repo description.
+# Spine
+A (chiro)practical introduction to backbone.js
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -10,7 +10,6 @@ One sentence repo description.
   1. [Installing Dependencies](#installing-dependencies)
 1. [Objectives](#objectives)
   1. [Basic Requirements](#basic-requirements)
-  1. [Extra Credit](#extra-credit)
 1. [Getting Help](#getting-help)
 1. [Contributing](#contributing)
 
@@ -20,40 +19,49 @@ One sentence repo description.
 
 ### Technologies
 
-  - item 1
-  - item 2
+  - [Backbone.js]
 
 ### Context
 
-<!-- What problem does this solve? -->
-<!-- Industry Prevalence -->
-<!-- Competing Technologies -->
+Backbone is the first of many MVC (model-view-controller) frameworks
+you will be introduced to. It is the most prevalent framework in use today.
+
+You'll walk through the basics, and see how a simple application might work.
+
+Work through the tutorial steps for an
+introduction to Backbone's flavor of MVC:
+- models
+ - The persistent application data
+- views
+ - The rendered data visible to the user
+- collections
+ - Groupings of models using underscore functions
+
+Eventually, we'll move on to other MVC frameworks like Angular, Ember,
+and Mithril. For now, put on your blinders, and dive into backbone.
 
 
 ## Environment
 
 ### Requirements
 
-  - Node 0.10.x
   - Bower 1.3.x
 
 ### Installing Dependencies
 
   ```bash
   npm install
+
+  # or
+
   bower install
   ```
 
 
 ## Objectives
 
-### Basic Requirments
-  - item 1
-  - item 2
-
-### Extra Credit
-  - item 1
-  - item 2
+### Basic Requirements
+  - Complete all four steps of the tutorial
 
 
 ## Getting Help
@@ -71,7 +79,7 @@ any code contained herein is prohibited.
 
 
 <!-- Links -->
-[node-inspector]: https://github.com/node-inspector/node-inspector
+[Backbone.js]: http://backbonejs.org/
 [semantic versioning]: http://semver.org/
 [CONTRIBUTING.md]: CONTRIBUTING.md
 [CHANGELOG.md]: CHANGELOG.md
