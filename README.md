@@ -37,8 +37,8 @@ introduction to Backbone's flavor of MVC:
 - collections
  - Groupings of models using underscore functions
 
-Eventually, we'll move on to other MVC frameworks like Angular, Ember,
-and Mithril. For now, put on your blinders, and dive into backbone.
+<!--Eventually, we'll move on to other MVC frameworks like Angular, Ember,-->
+<!--and Mithril. For now, put on your blinders, and dive into backbone.-->
 
 
 ## Environment
