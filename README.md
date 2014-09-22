@@ -28,7 +28,7 @@ you will be introduced to. It is the most prevalent framework in use today.
 
 You'll walk through the basics, and see how a simple application might work.
 
-Work through the tutorial steps for an
+Work through the tutorial steps in the `/tutorial` folder for an
 introduction to Backbone's flavor of MVC:
 - models
  - The persistent application data
@@ -36,9 +36,6 @@ introduction to Backbone's flavor of MVC:
  - The rendered data visible to the user
 - collections
  - Groupings of models using underscore functions
-
-<!--Eventually, we'll move on to other MVC frameworks like Angular, Ember,-->
-<!--and Mithril. For now, put on your blinders, and dive into backbone.-->
 
 
 ## Environment
@@ -61,7 +58,11 @@ introduction to Backbone's flavor of MVC:
 ## Objectives
 
 ### Basic Requirements
-  - Complete all four steps of the tutorial
+  - Complete all four steps in the `/tutorial` folder
+   - [ ] Models and Events
+   - [ ] Rendering
+   - [ ] Views
+   - [ ] Collections
 
 
 ## Getting Help
@@ -79,9 +80,11 @@ any code contained herein is prohibited.
 
 
 <!-- Links -->
+
 [Backbone.js]: http://backbonejs.org/
 [semantic versioning]: http://semver.org/
 [CONTRIBUTING.md]: CONTRIBUTING.md
 [CHANGELOG.md]: CHANGELOG.md
 [bookstrap.hackreactor.com/help]: http://bookstrap.hackreactor.com/help
+
 <!-- End links -->
