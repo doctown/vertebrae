@@ -1,4 +1,4 @@
-# Spine
+# Vertebrae
 A (chiro)practical introduction to backbone.js
 
 ## Table of Contents
