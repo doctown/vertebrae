@@ -9,7 +9,7 @@ A (chiro)practical introduction to backbone.js
   1. [Requirements](#requirements)
   1. [Installing Dependencies](#installing-dependencies)
 1. [Objectives](#objectives)
-  1. [Basic Requirements](#basic-requirements)
+  1. [Bare Mimimum Requirements](#bare-minimum-requirements)
 1. [Getting Help](#getting-help)
 1. [Contributing](#contributing)
 
@@ -57,7 +57,7 @@ introduction to Backbone's flavor of MVC:
 
 ## Objectives
 
-### Basic Requirements
+### Bare Minimum Requirements
   - Complete all four steps in the `/tutorial` folder
    - [ ] Models and Events
    - [ ] Rendering
